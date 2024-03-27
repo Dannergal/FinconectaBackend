@@ -1,0 +1,73 @@
+[
+    {
+      "id": "bitcoin",
+      "rank": "1",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "supply": "19658368.0000000000000000",
+      "maxSupply": "21000000.0000000000000000",
+      "marketCapUsd": "1374186556873.9186739604513408",
+      "volumeUsd24Hr": "11290036101.0999480742426727",
+      "priceUsd": "69903.3895832003284281",
+      "changePercent24Hr": "-1.0413225787548438",
+      "vwap24Hr": "70491.0746301424022404",
+      "explorer": "https://blockchain.info/"
+    },
+    {
+      "id": "ethereum",
+      "rank": "2",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "supply": "120077426.1898597300000000",
+      "maxSupply": null,
+      "marketCapUsd": "429398185413.4030216533795719",
+      "volumeUsd24Hr": "6787493127.6553419396474923",
+      "priceUsd": "3576.0109042848949551",
+      "changePercent24Hr": "-1.5027782712868512",
+      "vwap24Hr": "3616.3958361200103315",
+      "explorer": "https://etherscan.io/"
+    },
+    {
+      "id": "tether",
+      "rank": "3",
+      "symbol": "USDT",
+      "name": "Tether",
+      "supply": "103618183617.7160800000000000",
+      "maxSupply": null,
+      "marketCapUsd": "103678751181.9445153940396177",
+      "volumeUsd24Hr": "25843591951.0482700228719104",
+      "priceUsd": "1.0005845264037043",
+      "changePercent24Hr": "0.0126210826529542",
+      "vwap24Hr": "1.0001903379311685",
+      "explorer": "https://www.omniexplorer.info/asset/31"
+    },
+    {
+      "id": "binance-coin",
+      "rank": "4",
+      "symbol": "BNB",
+      "name": "BNB",
+      "supply": "166801148.0000000000000000",
+      "maxSupply": "166801148.0000000000000000",
+      "marketCapUsd": "96289757859.3040069608518080",
+      "volumeUsd24Hr": "537397663.8819043120161043",
+      "priceUsd": "577.2727526989442960",
+      "changePercent24Hr": "-2.7596302833553900",
+      "vwap24Hr": "586.4220078914048067",
+      "explorer": "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+    },
+    {
+      "id": "solana",
+      "rank": "5",
+      "symbol": "SOL",
+      "name": "Solana",
+      "supply": "443884942.2473194000000000",
+      "maxSupply": null,
+      "marketCapUsd": "83710052909.8734589892169452",
+      "volumeUsd24Hr": "1310782889.0209666590299131",
+      "priceUsd": "188.5850249527786950",
+      "changePercent24Hr": "-1.8026503913262694",
+      "vwap24Hr": "191.9630019223345039",
+      "explorer": "https://explorer.solana.com/"
+    }
+  ]
+  
